@@ -18,10 +18,10 @@ hr.step1{
 
 }hr.dev{  
     border: 0;
-    height: 5px;
+    height: 3px;
     background-image: linear-gradient(to
      right,#f0f0f0, #00b9ff, #59d941,#f0f0f0);
-     transform: rotate(-3deg);
+     transform: rotate(-2deg);
      }
      hr.mada{
         border: 0;
